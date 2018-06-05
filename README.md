@@ -1,5 +1,6 @@
 # gulp-webpack
 GULP X Webpack
 
-NPM install
-run Gulp
+`npm install`
+
+run `gulp`
